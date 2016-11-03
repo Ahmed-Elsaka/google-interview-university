@@ -164,18 +164,18 @@
 ## 关于 Google
 
 - [x] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] Google 检索的原理：
+- [x] Google 检索的原理：
     - [x] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
+    - [x] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
+    - [x] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
     - [x] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [ ] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+    - [x] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] 系列文章：
-    - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+    - [x] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
     - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
     - [ ] [Google 检索将成为你的下一个大脑](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
     - [ ] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] [书籍：Google 公司是如何运作的](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
+- [x] [书籍：Google 公司是如何运作的](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 - [x] [由 Google 通告所制作 —— 2016年10月（视频）](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
 ## 相关视频资源
